@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Mi nombre es Cristian Guerrero Guijosa</h1>
+<h1 align="center">Hola 👋, mi nombre es Cristian Guerrero Guijosa</h1>
 <h3 align="center">Desarrollador Java siempre en busca de nuevas tecnologías que aprender.</h3>
 
 <h3 align="left">Connect with me:</h3>
