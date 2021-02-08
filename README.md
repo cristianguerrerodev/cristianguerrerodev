@@ -6,9 +6,8 @@
 - 📫 Email: **cristianguerreroguijosa@gmail.com**
 - <a href="https://linkedin.com/in/cristianguerreroguijosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cristianguerreroguijosa" height="20" width="27" /></a>
 <a href="https://linkedin.com/in/cristianguerreroguijosa" target="blank">**Linkedin**</a>
-<br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><a/>
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" target="_blank"/><a/>
