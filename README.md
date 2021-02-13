@@ -4,8 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 
 - 📫 Email: **cristianguerreroguijosa@gmail.com**
-- <a href="https://linkedin.com/in/cristianguerreroguijosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cristianguerreroguijosa" height="20" width="27" /></a>
-<a href="https://linkedin.com/in/cristianguerreroguijosa" target="blank">**Linkedin**</a>
+- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cristianguerreroguijosa" height="17" width="23" /> Linkedin:
+<a href="https://linkedin.com/in/cristianguerreroguijosa" target="_blank">**https://linkedin.com/in/cristianguerreroguijosa**</a>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
